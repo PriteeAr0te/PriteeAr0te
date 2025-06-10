@@ -1,4 +1,4 @@
-# <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/wave.gif?raw=true" width="24px" height="24px" /> Hey, I'm Pritee – Code-Driven Creator 👨‍💻
+# <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/wave.gif?raw=true" width="24px" height="24px" /> Hey, I'm Pritee – Code-Driven Creator 💻👩‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=React+Dev+%7C+MERN+Enthusiast;Clean+UI+Craftsman+%7C+Backend+Builder" alt="Typing SVG" />
