@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+React-Driven;Pixel-Perfect+UI+%7C+User-First+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+React-Driven;Pixel-Perfect+UI+%7C+User-First+UX" alt="Typing SVG" />
 </div>
 
 
