@@ -1,9 +1,8 @@
-# <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/wave.gif?raw=true" width="24px" height="24px" /> Hey, I'm Pritee – Code-Driven Creator 👩‍💻
+# <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/wave.gif?raw=true" width="24px" height="24px" /> Hey, I'm Pritee
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=React+Dev+%7C+MERN+Enthusiast;Clean+UI+Craftsman+%7C+Backend+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+React-Driven;Pixel-Perfect+UI+%7C+User-First+UX" alt="Typing SVG" />
 </div>
-
 
 
 ## 🧠 My Favorite Stack
@@ -20,7 +19,7 @@
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="300" height="210" />
 
-- 🛠️ Tech Stack: **React**, **Node.js**, **Express**, **MongoDB**
+- 🛠️ Tech Stack: **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**
 - 🎯 Goal: Crafting real-world full-stack apps with clean code and solid architecture
 - 🔍 Focus: Scalable backend logic, modular UI components, and RESTful APIs
 - 🌱 Currently mastering: **Mongoose models**, API security, auth flows
