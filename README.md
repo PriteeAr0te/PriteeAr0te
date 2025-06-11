@@ -2,45 +2,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+React-Driven;Pixel-Perfect+UI+%7C+User-First+UX" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+React-Driven;Pixel-Perfect+UI+%7C+User-First+UX" alt="Typing SVG" />
 </div>
 
 
 ## 🧠 My Favorite Stack
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/javascript.svg" alt="JavaScript" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/typescript.svg" alt="Typescript" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/nodejs.svg" alt="NodeJS" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/express.svg" alt="ExpressJS" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/mongodb.svg" alt="Mongodb" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/react.svg" alt="ReactJS" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/nextjs-plain.svg" alt="Nextjs" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/html5.svg" alt="HTML5" width="50" height="50"/>
-  </div>
-  <div style="background:#ffffff; border-radius:8px; padding:5px;">
-    <img src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/css3.svg" alt="CSS3" width="50" height="50"/>
-  </div>
-</div>
-
+<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/javascript.svg" alt="JavaScript" width="50" height="50"/>&nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/typescript.svg" alt="Typescript" width="50" height="50"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/nodejs.svg" alt="NodeJS" width="50" height="50"/>&nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/expressjs.png" alt="ExpressJS" width="50" height="50"/>&nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/mongodb.svg" alt="Mongodb" width="50" height="50"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/react.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/next.png" alt="Nextjs" width="50" height="50"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/html5.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://github.com/PriteeAr0te/PriteeAr0te/blob/main/assets/css3.svg" alt="CSS3" width="50" height="50"/>
 
 &nbsp;
 
