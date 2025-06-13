@@ -17,7 +17,7 @@
 ✨ Frontend engineer evolving into a **Full-Stack MERN Developer** — passionate about building clean UIs, structured APIs, and production-grade web apps.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="300" height="210" />
+<img align="right" alt="GIF" src="./assets/code.gif" width="300" height="210" />
 
 - 🛠️ Tech Stack: **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**
 - 🎯 Goal: Crafting real-world full-stack apps with clean code and solid architecture
