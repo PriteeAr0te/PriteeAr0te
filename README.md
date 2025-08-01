@@ -49,3 +49,5 @@
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritee-reactdev)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/PriteeArot75040)
+
